@@ -2,8 +2,5 @@
 
 // Create particular module and merge in developer
 
-<<<<<<< HEAD
 feature are also known as different module
-=======
-feature are also known as different module
->>>>>>> f842f82 (Add some refrense using stash)
+
